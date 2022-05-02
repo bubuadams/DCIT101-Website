@@ -73,7 +73,7 @@ body{
 } 
 .contact-form .text-box{
    background: #000;
-   color: black;
+   color: white;
    border: none;
    width: calc(50% - 10px);
    height: 55px;
@@ -89,7 +89,7 @@ body{
 }
 .contact-form textarea{
    background: #000;
-   color: black;
+   color: area;
    border: none;
    width: 100%;
    padding: 12px;
